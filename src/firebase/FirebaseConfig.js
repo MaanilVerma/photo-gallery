@@ -3,13 +3,13 @@ import 'firebase/storage';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBy3eonSkeptbtzQSaPELxMSMsHMCqt_ME",
-  authDomain: "picssaver-12ce9.firebaseapp.com",
-  projectId: "picssaver-12ce9",
-  storageBucket: "picssaver-12ce9.appspot.com",
-  messagingSenderId: "518351395469",
-  appId: "1:518351395469:web:441daaca7e0ece5b33a0c4"
-  };
+  apiKey: "AIzaSyCGTCizIFVUvpM6xpzF5qywDZTfZrszAik",
+  authDomain: "photo-gallery-5ddc3.firebaseapp.com",
+  projectId: "photo-gallery-5ddc3",
+  storageBucket: "photo-gallery-5ddc3.appspot.com",
+  messagingSenderId: "836671529882",
+  appId: "1:836671529882:web:bb32c065eb4183f7355023"
+};
 
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
